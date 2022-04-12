@@ -7,6 +7,7 @@
 
 * Group Name: YOUR GROUPS NAME 
 * Your Name:  YOUR NAME
+* Student ID / Number: YOUR STUDENT NUMBER
 * Lab Section Leader: Lachlan / Gijs (choose one)
 * Lab Start time: 8:45 am / 10:45 am (choose one)
 
